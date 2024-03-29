@@ -6,3 +6,4 @@ FROM OrderItem
   JOIN Orders ON OrderItem.OrderID = Orders.OrderID
 GROUP BY OrderItem.OrderId,
   Orders.TotalDue
+  

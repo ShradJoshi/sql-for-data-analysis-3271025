@@ -1,3 +1,4 @@
+
 SELECT CustomerID,
   FirstName,
   LastName
